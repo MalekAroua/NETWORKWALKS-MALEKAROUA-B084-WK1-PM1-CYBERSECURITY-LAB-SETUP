@@ -137,7 +137,7 @@ Created a VirtualBox snapshot named **`Clean Baseline - Network Setup`** immedia
 ![Kali Linux IPv4 Manual Settings](screenshots/s3.png)
 
 ### 4. Terminal Interface & IP Verification (`ip a`)
-![Kali Linux IP Address Output](screenshots/s2_2.jpg)
+![Kali Linux IP Address Output](screenshots/s2.jpg)
 
 ---
 
